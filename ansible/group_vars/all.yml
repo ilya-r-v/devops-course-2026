@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/ilya-r-v/devops-ci-app"
+app_tag: "8a0a08cb179762ab5656e2953682dc5eb2772c86"
+app_container_name: "devops-ci-app"
+app_host_port: 5003
+app_internal_port: 5000
